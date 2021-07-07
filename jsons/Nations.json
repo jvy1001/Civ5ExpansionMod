@@ -284,7 +284,7 @@
 		"outerColor": [9, 112, 84],
 		"innerColor": [255,255,255],
 		"uniqueName": "开元盛世",
-		"uniques": ["[+3 Food,+1 Science,+5 Gold] [in all cites]","Great General provides double combat bonus","[Great General] is earned [75]% faster"],
+		"uniques": ["[+3 Food,+1 Science,+5 Gold] [in all cities]","Great General provides double combat bonus","[Great General] is earned [75]% faster"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
